@@ -26,4 +26,4 @@ Project is developed by using Angular, nodeJs, MongoDB
 
 # Connect to MongoDB
 Database - employeedatabase
-Collection -employees
+Collection - employees
